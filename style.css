@@ -256,7 +256,7 @@ h3 {
 
 
 @media screen and (max-width:768px) {
-    .navbar {
+    /*.navbar {
         padding: 0%;
     }
 
@@ -294,7 +294,7 @@ h3 {
 
     .navlist :hover {
         margin-left: 0px;
-    }
+    }*/
 
 
     .section1,
