@@ -415,4 +415,7 @@ h3 {
     .h3 {
         display: none;
     }
+    .header{
+        padding: 20px
+    }
 }
