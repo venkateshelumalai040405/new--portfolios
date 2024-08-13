@@ -390,7 +390,7 @@ h3 {
 
     .About {
         position: relative;
-        height: 120dvh;
+        height: 150dvh;
     }
 
     .Skills {
@@ -405,7 +405,7 @@ h3 {
 
     .contact {
         position: relative;
-        height: 100dvh;
+        height: 90dvh;
     }
 
     p {
