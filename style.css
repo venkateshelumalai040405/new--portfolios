@@ -255,6 +255,17 @@ h3 {
     font-size: 30px;
 }
 
+.btns {
+    border: 5px solid cyan;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    background-color: cyan;
+}
+
+a {
+    background-color: cyan;
+}
+
 
 @media screen and (max-width:768px) {
 
