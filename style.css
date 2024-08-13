@@ -299,7 +299,7 @@ h3 {
     }
 
     #Home {
-        height: 100dvh;
+        height: 150dvh;
     }
 
     .section1 {
@@ -387,12 +387,12 @@ h3 {
 
     .About {
         position: relative;
-        height: 80dvh;
+        height: 120dvh;
     }
 
     .Skills {
         position: relative;
-        height: 80dvh;
+        height: 120dvh;
     }
 
     .project {
@@ -402,6 +402,6 @@ h3 {
 
     .contact {
         position: relative;
-        height: 80dvh;
+        height: 120dvh;
     }
 }
