@@ -22,6 +22,8 @@ body {
 
 
 .Home {
+    display: flex;
+    flex-direction: column;
     position: relative;
     height: 150vh;
 }
