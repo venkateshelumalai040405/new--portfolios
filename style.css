@@ -313,11 +313,11 @@ h3 {
 
     .img .myimg {
         height: 100%;
-        width: 100%;
+        width: 300px;
         border-radius: 10%;
         border: 5px solid cyan;
         left: 50px;
-        /*margin-left: 20px;*/
+        margin-left: 20px;
         margin-top: 70px;
     }
 
@@ -339,10 +339,9 @@ h3 {
 
     .myimg2 {
         height: 100%;
-        width: 100%;
+        width: 300px;
         margin: 0px;
-        /*margin-left: 20px;*/
-        margin-bottom: 101px;
+        margin-left: 20px;
     }
 
 
