@@ -25,7 +25,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 200vh;
+    height: 150vh;
 }
 
 .header {
@@ -136,7 +136,7 @@ ul,
 .About {
     position: relative;
     color: cyan;
-    height: 150vh;
+    height: 120vh;
     width: 100%;
 }
 
@@ -180,7 +180,7 @@ h3 {
 
 .Skills {
     position: relative;
-    height: 150vh;
+    height: 120vh;
 }
 
 #skillsdata {
@@ -228,7 +228,7 @@ h3 {
 .contact {
     width: 100%;
     position: relative;
-    height: 150dvh;
+    height: 100dvh;
 }
 
 .con {
@@ -342,6 +342,7 @@ h3 {
         width: 300px;
         margin: 0px;
         margin-left: 20px;
+        margin-bottom: 100px;
     }
 
 
@@ -388,7 +389,7 @@ h3 {
 
     .About {
         position: relative;
-        height: 150vh;
+        height: 120vh;
     }
 
     .Skills {
